@@ -1,0 +1,25 @@
+body{
+
+}
+
+.nav-center {
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    
+    
+
+}
+
+.nav-links{
+    display: flex;
+    padding-right: 20px;
+    margin: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+  
+    
+}
